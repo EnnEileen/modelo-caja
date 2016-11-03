@@ -13,13 +13,14 @@ div{
   }
 
 p{
-    border-style: dashed;
+    border: dashed 1px green;
     background-color: white;
     text-align: center;
     padding-bottom: 5px;
     padding-top: 5px;
     font-size: 8px;
     border-width: thin;
+
 
 }
 
